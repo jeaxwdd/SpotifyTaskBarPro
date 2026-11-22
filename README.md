@@ -4,11 +4,6 @@
 
 **Control Spotify, search tracks, and Shazam music right from your taskbar—using only ~8MB of RAM.**
 
-[![Latest Release](https://shields.io)](https://github.com)
-[![Downloads](https://shields.io)](https://github.com)
-[![RAM Usage](https://shields.io)](https://github.com)
-[![Platform](https://shields.io)](https://github.com)
-
 [Overview](#-overview) • [Features](#-features) • [Installation](#-installation) • [Shortcuts](#%EF%B8%8F-shortcuts) • [FAQ](#-faq)
 
 <br>
@@ -49,7 +44,6 @@ Tired of alt-tabbing out of your game or work just to skip a song or check what'
   <table>
     <tr>
       <td align="center"><b>Transparent Mode</b></td>
-      <td align="center"><b>Instant Search & Shazam</b></td>
     </tr>
     <tr>
       <td><img src="png.webp" width="400"/></td>
