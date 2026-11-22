@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="BURAYA_ANA_GORSEL_VEYA_GIF_LINKI" alt="Spotify Taskbar Demo" width="750" style="border-radius: 10px;"/>
+
 
 </div>
 
