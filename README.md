@@ -53,7 +53,6 @@ Tired of alt-tabbing out of your game or work just to skip a song or check what'
     </tr>
     <tr>
       <td><img src="png.webp" width="400"/></td>
-      <td><img src="BURAYA_GORSEL_2_LINKI" width="400"/></td>
     </tr>
   </table>
 </div>
