@@ -8,8 +8,6 @@
 
 <br>
 
-
-
 </div>
 
 ---
@@ -21,7 +19,7 @@ Tired of alt-tabbing out of your game or work just to skip a song or check what'
 | Metric | Standard Desktop Apps (Electron) | **Spotify Taskbar Widget** |
 | :--- | :--- | :--- |
 | **Memory (RAM)** | ~150 MB – 400 MB | **~8 MB** 🚀 |
-| **Visibility** | Takes up screen space | **Instant toggle (`Alt + N`)** |
+| **Visibility** | Takes up screen space | **Instant bar shrink/expand (`Alt + N`)** |
 | **Customization** | Fixed window | **Draggable & Adjustable Transparency** |
 | **Extras** | Playback only | **Built-in Search & Shazam** |
 
@@ -29,12 +27,12 @@ Tired of alt-tabbing out of your game or work just to skip a song or check what'
 
 ## ✨ Features
 
-* **🪶 Featherlight Performance:** Built with efficiency in mind. Consumes only **~8 MB of RAM** and near-zero CPU while idling.
-* **👻 Glassmorphism & Transparency:** Adjust the widget's opacity to blend seamlessly into your desktop wallpaper or taskbar.
-* **🖱️ Drag & Snap Anywhere:** Freely drag the player to any corner of your screen or pin it right onto your taskbar.
-* **⚡ Global Hotkey (`Alt + N`):** Instantly summon or hide the widget from any full-screen app or game.
-* **🔍 Instant Track Search:** Find and play any song on [Spotify](https://spotify.com) in milliseconds without opening the main client.
-* **🎙️ One-Click Shazam:** Hear a song in a video or stream? Click the [Shazam](https://shazam.com) icon to identify it instantly.
+- **🪶 Featherlight Performance:** Built with efficiency in mind. Consumes only **~8 MB of RAM** and near-zero CPU while idling.
+- **👻 Glassmorphism & Transparency:** Adjust the widget's opacity to blend seamlessly into your desktop wallpaper or taskbar.
+- **🖱️ Drag & Snap Anywhere:** Freely drag the player to any corner of your screen or pin it right onto your taskbar.
+- **⚡ Global Hotkey (`Alt + N`):** Instantly shrink or expand the bar on demand from any full-screen app or game.
+- **🔍 Instant Track Search:** Find and play any song on [Spotify](https://spotify.com) in milliseconds without opening the main client.
+- **🎙️ One-Click Shazam:** Hear a song in a video or stream? Click the [Shazam](https://shazam.com) icon to identify it instantly.
 
 ---
 
@@ -56,9 +54,8 @@ Tired of alt-tabbing out of your game or work just to skip a song or check what'
 ## 🚀 Installation
 
 1. Navigate to the [**Releases**](https://github.com) page.
-2. Download the latest `SpotifyTaskbar.exe` *(kendi dosya adınla değiştir)*.
 3. Run the application (no heavy installer required).
-4. Log in with your Spotify account and press **`Alt + N`** anytime to toggle!
+4. Log in with your Spotify account and press **`Alt + N`** anytime to shrink or expand the bar!
 
 ---
 
@@ -66,7 +63,7 @@ Tired of alt-tabbing out of your game or work just to skip a song or check what'
 
 | Key Combination | Action |
 | :--- | :--- |
-| <kbd>Alt</kbd> + <kbd>N</kbd> | Show / Hide the widget instantly |
+| <kbd>Alt</kbd> + <kbd>N</kbd> | Shrink / Expand the bar |
 
 ---
 
@@ -75,7 +72,7 @@ Tired of alt-tabbing out of your game or work just to skip a song or check what'
 <details>
 <summary><b>Does it require Spotify Premium?</b></summary>
 <br>
-Playback control (play, pause, skip) requires a Spotify Premium account due to Spotify Web API restrictions, while track viewing and Shazam work for everyone. *(Bunu kendi uygulamana göre düzenleyebilirsin)*
+Playback control (play, pause, skip) requires a Spotify Premium account due to Spotify Web API restrictions, while track viewing and Shazam work for everyone.
 </details>
 
 <details>
